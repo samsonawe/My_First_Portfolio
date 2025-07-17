@@ -1,0 +1,1 @@
+My ALX basic project on HTML marked the beginning of an exciting and rewarding journey into web development.
